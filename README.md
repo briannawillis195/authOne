@@ -1,7 +1,8 @@
 <h1 center>My Awesome Project</h1>
 <b>Description:</b> Personalized To-Do list full stack application.  In this application users can create tasks and add them to a to-do list. 
 <img width="1373" alt="Screenshot 2023-11-12 at 2 22 46 PM" src="https://github.com/briannawillis195/authOne/assets/143905399/b32948db-f372-4210-b5a6-ec23fe12eec2">
-<img width="1357" alt="Screenshot 2023-11-12 at 2 24 00 PM" src="https://github.com/briannawillis195/authOne/assets/143905399/7764ebfc-23db-470b-ad40-9f1a9699790b">
+<img width="1357" alt="Screenshot 2023-11-12 at 2 24 00 PM" src="https://github.com/briannawillis195/authOne/assets/143905399/96f3280c-739a-435f-87e7-0de97e2d0dbf">
+
 
 <b>Tech Used:</b>JavaScript, Node.js. Express.js, EJS, MongoDB, Passport.js
 
