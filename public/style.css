@@ -1,0 +1,61 @@
+*{
+  font-family: Ubuntu;
+}
+
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://i.postimg.cc/rpkdBR6k/Gray.png');
+  background-size:cover;
+}
+
+input{
+  width: 300px;
+  margin-left: 70px;
+}
+
+
+.crossOut{
+  text-decoration: line-through red;
+}
+
+li{
+  list-style: none;
+}
+
+/* style.css */
+
+
+li.message {
+  border: 1px solid black;
+  padding: 8px;
+  margin-bottom: 5px; 
+  background-color: white;
+
+
+} 
+
+.submit{
+  margin-left: 100px;
+}
+
+h1{
+  color: white;
+  font-family: Ubuntu;
+}
+
+#check{
+  color: green;
+  margin-left: 50px;
+
+
+}
+#trash{
+color: red;
+margin-left: 50px;
+
+}
+
+
+/* style.css */
+
